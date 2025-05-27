@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/PetarR21/newsletter-signup-form](https://github.com/PetarR21/newsletter-signup-form)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
